@@ -1,0 +1,14 @@
+{
+  "name": "daybook-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "A local-first daily workspace with a fictional, filesystem-isolated portfolio demo.",
+  "scripts": {
+    "start": "node server.mjs",
+    "personal": "node server.mjs --personal",
+    "test": "node --test tests/*.test.mjs",
+    "check": "node --check server.mjs && node --check public/app.js && node --test tests/*.test.mjs"
+  },
+  "engines": { "node": ">=22" }
+}

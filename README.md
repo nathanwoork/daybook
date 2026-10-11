@@ -112,4 +112,3 @@ Routine app operation makes zero AI calls. AI-assisted changes or interpretation
 ## Reuse
 
 Source and fictional sample content are provided under the [MIT license](LICENSE). Clone it, adapt it and keep your personal data out of commits. Suggestions and reproducible issues are welcome.
-

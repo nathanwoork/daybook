@@ -1,0 +1,10 @@
+data/
+verification/
+tests/.tmp/
+node_modules/
+.env
+.env.*
+*.log
+*.tmp
+.DS_Store
+Thumbs.db

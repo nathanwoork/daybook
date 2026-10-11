@@ -12,7 +12,7 @@ Daybook turns a scattered project list into three useful next steps, upcoming co
 
 [Case study for employers](docs/CASE_STUDY.md) · [Set up your own copy](docs/SETUP.md) · [Architecture](docs/ARCHITECTURE.md) · [What it stores](docs/DATA_AND_PRIVACY.md) · [Verification](docs/VERIFICATION.md)
 
-## Try it in two commands
+## Try it locally
 
 With Node.js **22 or newer** and Git installed:
 
